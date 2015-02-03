@@ -41,14 +41,14 @@
     },
     "require": {
         "php": ">=5.3.2",
-        "doctrine/common": ">=2.2,<=2.5.*"
+        "doctrine/common": "2.5.*"
     },
     "require-dev": {
         "doctrine/mongodb": ">=1.0.3",
         "doctrine/mongodb-odm": ">=1.0.0-BETA9",
-        "doctrine/orm": ">=2.4.0-RC1",
-        "doctrine/common": ">=2.4.0-RC3",
-        "doctrine/dbal": ">=2.4.0-RC1",
+        "doctrine/orm": "2.5.*",
+        "doctrine/common": "2.5.*",
+        "doctrine/dbal": "2.5.*",
         "symfony/yaml": "2.3.1"
     },
     "suggest": {
